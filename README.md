@@ -21,7 +21,7 @@ By jointly optimizing these components, the model enables end-to-end learning of
 
 ## Architecture
 
-![SRFlow3DNet Architecture](assets/architecture.pdf)
+![SRFlow3DNet Architecture](assets/architecture.png)
 
 The model retains the optical flow prediction branch and augments it with depth and scaled inverse depth change heads, enabling unified modeling of 2D motion and 3D geometry.
 
